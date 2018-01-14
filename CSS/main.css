@@ -1,0 +1,40 @@
+html{
+    font-family: sans-serif
+}
+
+nav{ 
+    font-family: serif
+}
+
+main, h1{
+    font-family:serif
+}
+
+main, p{
+    font-family: sans-serif
+}
+
+footer{
+    font-family: serif
+}
+
+main, h5{
+    font-family: serif
+}
+
+head{
+    background-color: #0BAEFF
+}
+
+body{
+    background-color: #0AD8E8
+}
+
+body, main{
+    background-color: #008BD1
+}
+
+footer{
+    background-color: #00D1A6
+}
+
